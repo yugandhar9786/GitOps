@@ -9,10 +9,10 @@ It will solving the main problem of tracking the changes.
 
 # Advantages of GitOps tools..
 
- Security
- versioning(track the changes)
- auto updates
- auto healing of any unwanted changes
+ # Security
+ # versioning(track the changes)
+ # auto updates
+ # auto healing of any unwanted changes
 
 
 
