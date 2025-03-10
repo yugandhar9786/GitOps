@@ -14,6 +14,8 @@ It will solving the main problem of tracking the changes.
  # auto updates
  # auto healing of any unwanted changes
 
+ ![alt text](gitops.png)
+
 
 
 
