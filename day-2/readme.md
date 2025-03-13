@@ -14,4 +14,4 @@ Here we are using ArgoCD
 
 # ArgoCD architecture
 
-c:\Users\YUGANDHAR\Downloads\argo-arch
+![alt text](Argo-CD-Architecture.png)
